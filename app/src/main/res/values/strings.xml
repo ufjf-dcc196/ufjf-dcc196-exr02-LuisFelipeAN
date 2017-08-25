@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DCC196 Exemplo 02</string>
+    <string name="botao_calcular">Calcular</string>
+    <string name="numero_1">Numero 1</string>
+    <string name="numero_2">Numero 2</string>
+    <string name="botao_calcular0">Calcular</string>
+    <string name="mais">+</string>
+    <string name="menos">-</string>
+    <string name="multiplicacao">*</string>
+    <string name="divisao" >/</string>
+</resources>
